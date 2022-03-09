@@ -1,22 +1,212 @@
 [
-   {
-      "link":"https://www.nytimes.com/games/wordle/index.html",
-      "title":"Wordle",
-      "description":"Guess the <strong>WORDLE</strong> in six tries. Each guess must be a valid five-letter word. Hit the enter button to submit. After each guess, the color of the tiles will change to show how close your guess was to the word.<br />"
-   },
-   {
-      "link":"https://www.heardle.app/",
-      "title":"Heardle",
-      "description":"Listen to the intro, then find the correct artist & title in the list. Skipped or incorrect attempts unlock more of the intro. Answer in as few tries as possible and share your score!<br />"
-   },
-   {
-      "link":"https://globle-game.com/",
-      "title":"Globle",
-      "description":"Every day, there is a new Mystery Country. Your goal is to guess the mystery country using the fewest number of guesses. Each incorrect guess will appear on the globe with a colour indicating how close it is to the Mystery Country.<br />"
-   },
-   {
-      "link":"https://quordle.com",
-      "title":"Quordle",
-      "description":"Guess all four <strong>QUORDLE</strong> words in 9 tries. Each guess must be a valid 5 letter word. Hit the enter button to submit. After each guess, the color of the tiles will change to show how close your guess was to the word.<br>"
-   }
+    {
+        "title": "Wordle",
+        "link": "https://www.nytimes.com/games/wordle/index.html",
+        "description": "Guess the <strong>WORDLE</strong> in six tries. Each guess must be a valid five-letter word. Hit the enter button to submit. After each guess, the color of the tiles will change to show how close your guess was to the word.<br />"
+    },
+    {
+        "title": "Worldle",
+        "link": "https://worldle.teuteuf.fr/",
+        "description": "Guess the country, and get directional and distance clues for how far you are."
+    },
+    {
+        "title": "Heardle",
+        "link": "https://www.heardle.app/",
+        "description": "Guess the song by listening to increasingly long music samples."
+    },
+    {
+        "title": "Quordle",
+        "link": "https://www.quordle.com",
+        "description": "Four Wordles at the same time."
+    },
+    {
+        "title": "Nerdle",
+        "link": "https://nerdlegame.com/",
+        "description": "Wordle, but for math."
+    },
+    {
+        "title": "Squareword",
+        "link": "https://squareword.org",
+        "description": "Five wordles running simultaneously."
+    },
+    {
+        "title": "Squabble",
+        "link": "https://squabble.me/",
+        "description": "Wordle, but competitive multiplayer."
+    },
+    {
+        "title": "Wordle Unlimited",
+        "link": "https://www.wordleunlimited.com",
+        "description": "Unlimited rounds of Wordle every day."
+    },
+    {
+        "title": "Dungleon",
+        "link": "https://www.dungleon.com/",
+        "description": "Wordle for gamers. Guess the dungeon's composition."
+    },
+    {
+        "title": "Globle",
+        "link": "https://globle-game.com/",
+        "description": "Guess the country, and get a hot or cold indication telling you how close you are."
+    },
+    {
+        "title": "Citydle",
+        "link": "https://citydle.com/",
+        "description": "Guess the city, and get directional and distance clues for how far you are."
+    },
+    {
+        "title": "Mathler",
+        "link": "https://www.mathler.com/",
+        "description": "Wordle, but for math."
+    },
+    {
+        "title": "Waffle",
+        "link": "https://wafflegame.net",
+        "description": "Wordle, but with a drag and drop crossword puzzle to solve."
+    },
+    {
+        "title": "Obscurdle",
+        "link": "https://obscurdle.com/",
+        "description": "A wordle-inspired puzzle game where you have to figure out what the yellow and green letters represent in each level."
+    },
+    {
+        "title": "Crosswordle",
+        "link": "https://crosswordle.vercel.app",
+        "description": "Wordle, but in reverse. The game was already played. You need to fill in the guesses."
+    },
+    {
+        "title": "Crosswordle (2)",
+        "link": "https://crosswordle.serializer.ca/",
+        "description": "Two Wordles that intersect, just like a crossword puzzle."
+    },
+    {
+        "title": "Crosswordle (3)",
+        "link": "https://crosswordle.xyz/",
+        "description": "An entire crossword puzzle of intersecting Wordles."
+    },
+    {
+        "title": "Custom Wordle",
+        "link": "https://mywordle.strivemath.com/",
+        "description": "Make your own Wordle."
+    },
+    {
+        "title": "Squirdle",
+        "link": "https://squirdle.fireblend.com/",
+        "description": "Wordle, but for pokemon."
+    },
+    {
+        "title": "Nordle",
+        "link": "https://www.nordle.us/",
+        "description": "Choose the number of Wordles you want to do at the same time."
+    },
+    {
+        "title": "Dordle",
+        "link": "https://zaratustra.itch.io/dordle",
+        "description": "Two Wordles at the same time."
+    },
+    {
+        "title": "Octordle",
+        "link": "https://octordle.com/",
+        "description": "Eight Wordles at the same time."
+    },
+    {
+        "title": "Sedecordle",
+        "link": "https://www.sedecordle.com/",
+        "description": "Sixteen Wordles at the same time."
+    },
+    {
+        "title": "Absurdle",
+        "link": "https://qntm.org/files/absurdle/absurdle.html",
+        "description": "Wordle, but the game can change the word (without invalidating the information you already learned) to make it as hard as possible."
+    },
+    {
+        "title": "Subwaydle",
+        "link": "https://www.subwaydle.com/",
+        "description": "Wordle, but for NYC subway trips."
+    },
+    {
+        "title": "Heardle (Phonemic)",
+        "link": "https://heardle.glitch.me/",
+        "description": "Phonemic version of Wordle."
+    },
+    {
+        "title": "Hello Wordl",
+        "link": "https://hellowordl.net/",
+        "description": "Like Wordle, but choose the word length from 5 - 11 characters."
+    },
+    {
+        "title": "Lordle of the Rings",
+        "link": "https://digitaltolkien.github.io/vue-wordle/",
+        "description": "Wordle, but using all text from the Lord of the Rings as possible solutions."
+    },
+    {
+        "title": "SWordle",
+        "link": "https://wordle.starwars.guide/",
+        "description": "Wordle, but for Star Wars."
+    },
+    {
+        "title": "Byrdle",
+        "link": "https://www.byrdle.net/",
+        "description": "Wordle, but for choral music."
+    },
+    {
+        "title": "Taylordle",
+        "link": "https://www.taylordle.com/",
+        "description": "Wordle, but Taylor Swift themed."
+    },
+    {
+        "title": "Airportle",
+        "link": "https://airportle.scottscheapflights.com/",
+        "description": "Wordle, but for 3-letter airport codes."
+    },
+    {
+        "title": "Lewdle",
+        "link": "https://www.lewdlegame.com/",
+        "description": "Wordle, but with profanity."
+    },
+    {
+        "title": "Brdl",
+        "link": "https://brdl.alex.gd/",
+        "description": "Wordle for bird banding codes."
+    },
+    {
+        "title": "Queerdle",
+        "link": "https://queerdle.com/",
+        "description": "Yassification of Wordle."
+    },
+    {
+        "title": "Wordle-BTS",
+        "link": "https://bts-wordle.vercel.app/",
+        "description": "Wordle for fans of BTS."
+    },
+    {
+        "title": "Paimordle",
+        "link": "https://paimordle.vercel.app/",
+        "description": "Wordle for Genshin Impact fans."
+    },
+    {
+        "title": "Jewdle",
+        "link": "https://www.jewdle.app/",
+        "description": "Wordle for Jews."
+    },
+    {
+        "title": "Wizarding Wordle",
+        "link": "https://www.mugglenet.com/fans-fun/trivia-challenges/wizarding-wordle/",
+        "description": "Wordle, but Harry Potter themed. Beware, this one has a lot of ads."
+    },
+    {
+        "title": "Wordle Archive",
+        "link": "https://www.devangthakkar.com/wordle_archive/?1",
+        "description": "The entire history of all the Wordles."
+    },
+    {
+        "title": "OWLel",
+        "link": "https://owlel.zusor.io/",
+        "description": "Wordle for Overwatch League players."
+    },
+    {
+        "title": "Squardle",
+        "link": "https://fubargames.se/squardle/",
+        "description": "2D Wordle where you solve 6 words in a 5x5 grid over 10 turns."
+    }
 ]
