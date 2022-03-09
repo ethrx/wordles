@@ -1,0 +1,22 @@
+[
+   {
+      "link":"https://www.nytimes.com/games/wordle/index.html",
+      "title":"Wordle",
+      "description":"Guess the <strong>WORDLE</strong> in six tries. Each guess must be a valid five-letter word. Hit the enter button to submit. After each guess, the color of the tiles will change to show how close your guess was to the word.<br />"
+   },
+   {
+      "link":"https://www.heardle.app/",
+      "title":"Heardle",
+      "description":"Listen to the intro, then find the correct artist & title in the list. Skipped or incorrect attempts unlock more of the intro. Answer in as few tries as possible and share your score!<br />"
+   },
+   {
+      "link":"https://globle-game.com/",
+      "title":"Globle",
+      "description":"Every day, there is a new Mystery Country. Your goal is to guess the mystery country using the fewest number of guesses. Each incorrect guess will appear on the globe with a colour indicating how close it is to the Mystery Country.<br />"
+   },
+   {
+      "link":"https://quordle.com",
+      "title":"Wordle",
+      "description":"Guess all four QUORDLE words in 9 tries. Each guess must be a valid 5 letter word. Hit the enter button to submit. After each guess, the color of the tiles will change to show how close your guess was to the word.<br>"
+   }
+]
